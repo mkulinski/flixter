@@ -32,6 +32,7 @@ gem 'figaro'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'carrierwave-aws'
+gem 'stripe'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
