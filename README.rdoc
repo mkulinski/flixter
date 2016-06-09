@@ -2,6 +2,6 @@
 
 Platform that allows users to create their own courses!
 
-Built in rails that uses JavaScript/jQuery.
+Built using Rails - JavaScript - jQuery.
 
 
